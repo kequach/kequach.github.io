@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/beld78.github.io/precache-manifest.45603ef2bf2bfaa34213c318f19e9540.js"
+  "/beld78.github.io/precache-manifest.3b3bd31919422165c2107027cc1eee95.js"
 );
 
 workbox.clientsClaim();
