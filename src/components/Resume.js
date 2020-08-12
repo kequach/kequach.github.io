@@ -42,10 +42,10 @@ export default  class Resume extends Component {
                   return(
                     <div className="row item">
                        <div className="twelve columns">
-                          <h3>{item.CompanyName}</h3>
+                          <h3>{item.CompanyName} <span>&bull;</span> {item.Location}</h3>
                           <p className="info">
                           {item.specialization}
-                          <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
+                          <span>&bull;</span> <em className="date">{item.MonthOfJoining} {item.YearOfJoining} - {item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
                           <p>
                           {item.Achievements}
                           </p>

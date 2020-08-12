@@ -1,72 +1,142 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "imagebaseurl":"https://beld78.github.io/",
+    "name": "Keven Quach",
+    "role": "Data Scientist and Web Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like learning and teaching. I offer my services in Data Science and Web Development. Due to my years of teaching experience, I am also able to teach you a lot about these topics. If you are interested, please contact me!",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/keven-quach-9907b7122/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/beld78",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "url":"https://www.xing.com/profile/Keven_Quach",
+          "className":"fa fa-xing"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am a Master Business Informatics student at Utrecht University. I am a freelance Data Scientist and Full Stack Web Developer.",
+    "address":"Utrecht, Netherlands",
+    "website":"https://beld78.github.io/",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
+        "UniversityName":"Utrecht University",
+        "specialization":"Business Informatics - Applied Data Science Profile",
+        "MonthOfJoining":"Aug",
+        "YearOfJoining":"2020",
         "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
+        "YearOfPassing":"2022",
         "Achievements":"Some Achievements"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Otto-Friedrich-University Bamberg",
+        "specialization":"Business Informatics",
+        "MonthOfJoining":"Sep",
+        "YearOfJoining":"2015",
+        "MonthOfPassing":"Mar",
+        "YearOfPassing":"2020",
+        "Achievements":"Grade 1.4 | Top 2 graduate in final semester"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"STAT-UP Statistical Consulting & Data Science GmbH",
+        "Location":"Munich",
+        "specialization":"Intern Statistical Consulting",
+        "MonthOfJoining":"Apr",
+        "YearOfJoining":"2020",
+        "MonthOfLeaving":"Jul",
+        "YearOfLeaving":"2020",
+        "Achievements":"TBD"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"Robert Bosch GmbH",
+        "Location":"Tokyo",
+        "specialization":"Intern IoT Consulting",
+        "MonthOfJoining":"Nov",
+        "YearOfJoining":"2019",
+        "MonthOfLeaving":"Mar",
+        "YearOfLeaving":"2020",
+        "Achievements":"Setup for cloud environment and architecture for IoT project | Development of web application for IoT project | Conduction of Python training for IoT Cross team"
+      },
+      {
+        "CompanyName":"Robert Bosch GmbH",
+        "Location":"Bamberg",
+        "specialization":"Working Student Web Application Development",
+        "MonthOfJoining":"Sep",
+        "YearOfJoining":"2018",
+        "MonthOfLeaving":"Oct",
+        "YearOfLeaving":"2019",
+        "Achievements":"Assistance in a development team for digitalization of logistics processes | Continuous development of live-systems and development of new systems"
+      },
+      {
+        "CompanyName":"PricewaterhouseCoopers GmbH",
+        "Location":"Frankfurt",
+        "specialization":"Intern Technology Consulting",
+        "MonthOfJoining":"Jan",
+        "YearOfJoining":"2018",
+        "MonthOfLeaving":"Mar",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Assistance in a data warehouse large-scale project at a bank: Data Quality and Data Governance"
+      },
+      {
+        "CompanyName":"Otto-Friedrich-University",
+        "Location":"Bamberg",
+        "specialization":"Student tutor",
+        "MonthOfJoining":"Apr",
+        "YearOfJoining":"2017",
+        "MonthOfLeaving":"Jul",
+        "YearOfLeaving":"2019",
+        "Achievements":"Introduction to Computer Architecture and Operating Systems | Introduction to Algorithms, Programming and Software | Java Programming | Advanced Java Programming"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"The bars represent my comfortability with the technology",
     "skills":[
+      {
+        "skillname":"Python"
+      },
+      {
+        "skillname":"R"
+      },
+      {
+        "skillname":"Angular"
+      },
+      {
+        "skillname":"TypeScript"
+      },
+      {
+        "skillname":"Java"
+      },
+      {
+        "skillname":"MySQL"
+      },
+      {
+        "skillname":"Azure"
+      },
       {
         "skillname":"HTML5"
       },
       {
-        "skillname":"CSS"
+        "skillname":"CSS3"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"PHP"
+      },
+      {
+        "skillname":"Talend"
+      },
+      {
+        "skillname":"React"
+      },
+      {
+        "skillname":"VBA"
       }
     ],
     "portfolio":[
