@@ -17,6 +17,11 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
+          "name":"twitter",
+          "url":"https://twitter.com/beld78",
+          "className":"fa fa-twitter"
+        },
+        {
           "name":"skype",
           "url":"https://www.xing.com/profile/Keven_Quach",
           "className":"fa fa-xing"
