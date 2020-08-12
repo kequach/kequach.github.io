@@ -36,6 +36,15 @@ let resumeData = {
         "Achievements":"Some Achievements"
       },
       {
+        "UniversityName":"Skövde University",
+        "specialization":"Semester abroad",
+        "MonthOfJoining":"Aug",
+        "YearOfJoining":"2018",
+        "MonthOfPassing":"Jan",
+        "YearOfPassing":"2019",
+        "Achievements":"Grade 1.0"
+      },
+      {
         "UniversityName":"Otto-Friedrich-University Bamberg",
         "specialization":"Business Informatics",
         "MonthOfJoining":"Sep",
