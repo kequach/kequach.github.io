@@ -1,13 +1,13 @@
 {
-  "main.css": "/beld78/static/css/main.1030629e.chunk.css",
-  "main.js": "/beld78/static/js/main.2f0947af.chunk.js",
-  "main.js.map": "/beld78/static/js/main.2f0947af.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "/beld78/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "/beld78/static/js/1.6eb6405c.chunk.js.map",
-  "runtime~main.js": "/beld78/static/js/runtime~main.4f342783.js",
-  "runtime~main.js.map": "/beld78/static/js/runtime~main.4f342783.js.map",
-  "static/css/main.1030629e.chunk.css.map": "/beld78/static/css/main.1030629e.chunk.css.map",
-  "index.html": "/beld78/index.html",
-  "precache-manifest.12cb05d61eb2af01ae92947d9f0f9e2d.js": "/beld78/precache-manifest.12cb05d61eb2af01ae92947d9f0f9e2d.js",
-  "service-worker.js": "/beld78/service-worker.js"
+  "main.css": "/beld78.github.io/static/css/main.1030629e.chunk.css",
+  "main.js": "/beld78.github.io/static/js/main.1e1fa4ba.chunk.js",
+  "main.js.map": "/beld78.github.io/static/js/main.1e1fa4ba.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/beld78.github.io/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/beld78.github.io/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/beld78.github.io/static/js/runtime~main.aea2633f.js",
+  "runtime~main.js.map": "/beld78.github.io/static/js/runtime~main.aea2633f.js.map",
+  "static/css/main.1030629e.chunk.css.map": "/beld78.github.io/static/css/main.1030629e.chunk.css.map",
+  "index.html": "/beld78.github.io/index.html",
+  "precache-manifest.a83161a16b0468871988dcefe904c79d.js": "/beld78.github.io/precache-manifest.a83161a16b0468871988dcefe904c79d.js",
+  "service-worker.js": "/beld78.github.io/service-worker.js"
 }
