@@ -812,10 +812,13 @@ call-to-action .button {
 }
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
-   padding-right: 3%;
+   text-align: center;
 }
 #contact .header-col { padding-top: 6px; }
 
+.hover:hover {
+   filter: brightness(200%);
+}
 
 /* contact form */
 #contact form { margin-bottom: 30px; }
@@ -844,7 +847,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #333;
 }
 #contact button.submit {
 	text-transform: uppercase;
