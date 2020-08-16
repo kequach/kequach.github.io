@@ -112,9 +112,11 @@ class Email extends React.Component{
                   cols="20"
                 />
               </Flex>
-              <div style={{textAlign:"center"}}>
+
+              <Flex container flexDirection={"row"} justifyContent={"center"}>
+              <label></label>
               <input type="submit" value="Submit" className="btn btn-outline-light hover" />
-              </div>
+              </Flex>
 
             </Flex>
 
