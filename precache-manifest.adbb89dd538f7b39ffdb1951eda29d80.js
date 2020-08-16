@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "49f2137ceb5bef32fffc",
+    "revision": "abcad1486ce68149fdd4",
     "url": "/beld78.github.io/static/css/main.47c582a5.chunk.css"
   },
   {
-    "revision": "49f2137ceb5bef32fffc",
-    "url": "/beld78.github.io/static/js/main.49f2137c.chunk.js"
+    "revision": "abcad1486ce68149fdd4",
+    "url": "/beld78.github.io/static/js/main.abcad148.chunk.js"
   },
   {
     "revision": "6ce1631facbcabae4a54",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/beld78.github.io/static/js/runtime~main.aea2633f.js"
   },
   {
-    "revision": "07f93cc80c1891de11e73bc0cb241333",
+    "revision": "6ea6da7653272cf5dcd8dd6da0cc039a",
     "url": "/beld78.github.io/index.html"
   }
 ];
