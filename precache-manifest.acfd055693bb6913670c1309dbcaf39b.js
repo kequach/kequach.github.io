@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/beld78.github.io/static/js/runtime~main.aea2633f.js"
   },
   {
-    "revision": "647f5e8825765708674dd630c3bd9ee5",
+    "revision": "07246665a57b03527151ba23d189eef3",
     "url": "/beld78.github.io/index.html"
   }
 ];
