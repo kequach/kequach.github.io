@@ -64,14 +64,42 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Utrecht University",
+        "Location":"Utrecht",
+        "specialization":"Teaching Assistant",
+        "MonthOfJoining":"Nov",
+        "YearOfJoining":"2020",
+        "MonthOfLeaving":"Present",
+        "YearOfLeaving":"",
+        "Achievements":`• Supervise tutorials and assignments in the course “Concurrency”
+        `
+      },
+      {
+        "CompanyName":"Quach Consulting",
+        "Location":"Utrecht",
+        "specialization":"Freelancer",
+        "MonthOfJoining":"Jul",
+        "YearOfJoining":"2020",
+        "MonthOfLeaving":"Present",
+        "YearOfLeaving":"",
+        "Achievements":`•	Freelance data science consultant at STAT-UP
+        -	Lead project management for previous project to determine degree of contamination
+        -	Organized trainings in Python and data science
+        -	Held talk about customer project in data-driven advertising
+        `
+      },
+      {
         "CompanyName":"STAT-UP Statistical Consulting & Data Science GmbH",
         "Location":"Munich",
-        "specialization":"Intern Statistical Consulting",
+        "specialization":"Intern Data Science Consultant",
         "MonthOfJoining":"Apr",
         "YearOfJoining":"2020",
         "MonthOfLeaving":"Jul",
         "YearOfLeaving":"2020",
-        "Achievements":"TBD"
+        "Achievements":`•	Assisted in a project to determine the degree of contamination in industrial cotton machines on edge computing hardware
+        •	Developed a Shiny app for component configuration
+        •	Created internal web development training
+        `
       },
       {
         "CompanyName":"Robert Bosch GmbH",
@@ -81,9 +109,12 @@ let resumeData = {
         "YearOfJoining":"2019",
         "MonthOfLeaving":"Mar",
         "YearOfLeaving":"2020",
-        "Achievements":`Setup of cloud environment and architecture for IoT project
-        Development of web application for IoT project
-        Conduction of Python training for IoT Cross team`
+        "Achievements":`• Assisted in IoT project with a Japanese car manufacturer
+        -	Setup cloud environment and architecture 
+        -	Developed web app for ticket processing
+        •	Conducted weekly Python training for an IoT cross-departmental team
+        •	Organized company internal hackathon
+         `
       },
       {
         "CompanyName":"Robert Bosch GmbH",
@@ -93,20 +124,11 @@ let resumeData = {
         "YearOfJoining":"2018",
         "MonthOfLeaving":"Oct",
         "YearOfLeaving":"2019",
-        "Achievements":`Assistance in a development team for digitalization of logistics processes
-        Continuous development of live-systems and development of new systems`
-      },
-      {
-        "CompanyName":"PricewaterhouseCoopers GmbH",
-        "Location":"Frankfurt",
-        "specialization":"Intern Technology Consulting",
-        "MonthOfJoining":"Jan",
-        "YearOfJoining":"2018",
-        "MonthOfLeaving":"Mar",
-        "YearOfLeaving":"2018",
-        "Achievements":`Assistance in a data warehouse large-scale project at a bank: Data Quality and Data Governance
-        Support in the software development process: Conception - implementation support - test case and test data creation - test execution - error analysis - process documentation - process optimization
-        Analysis of business data models, transformation excels and ETLprocesses`
+        "Achievements":`•	Assisted in a project team for digitalization of logistics processes
+        -	Continuous development of live-systems and development of new systems
+        -	Independent second level support for 3 different projects
+        -	Management of ETL processes 
+        `
       },
       {
         "CompanyName":"Otto-Friedrich-University",
@@ -116,11 +138,21 @@ let resumeData = {
         "YearOfJoining":"2017",
         "MonthOfLeaving":"Jul",
         "YearOfLeaving":"2019",
-        "Achievements":`4 semesters in total 
-        2 times Introduction to Computer Architecture and Operating Systems
-        Introduction to Algorithms, Programming and Software
-        Java Programming
-        Advanced Java Programming`
+        "Achievements":`•	Supervised tutorials and assignments in the courses “Introduction to Computer Architecture and Operating Systems”, “Introduction to Algorithms, Programming and Software”, “Java Programming”, “Advanced Java Programming” for 4 semesters`
+      },
+      {
+        "CompanyName":"PricewaterhouseCoopers GmbH",
+        "Location":"Frankfurt",
+        "specialization":"Intern Technology Consulting",
+        "MonthOfJoining":"Jan",
+        "YearOfJoining":"2018",
+        "MonthOfLeaving":"Mar",
+        "YearOfLeaving":"2018",
+        "Achievements":`• Assisted in a large-scale data warehouse project at a bank: Data Quality and Data Governance
+          -	Supervised the software development process
+          -	Coordinated bank department and developers as business analyst
+          -	Analyzed business data models, transformation excels and ETL processes
+        `
       }
     ],
     "skillsDescription":"The bars represent my comfortability with the technology",
