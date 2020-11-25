@@ -152,7 +152,7 @@ let resumeData = {
           -	Supervised the software development process
           -	Coordinated bank department and developers as business analyst
           -	Analyzed business data models, transformation excels and ETL processes
-        ` 
+        `
       }
     ],
     "skillsDescription":"The bars represent my comfortability with the technology",
