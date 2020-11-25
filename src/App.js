@@ -10,6 +10,7 @@ import Email from './components/Email';
 import resumeData from './resumeData';
 
 class App extends Component {
+  
   render() {
     return (
       <div className="App">
@@ -17,7 +18,7 @@ class App extends Component {
         <About resumeData={resumeData}/>
         <Resume resumeData={resumeData}/>
         {/*<Portfolio resumeData={resumeData}/>*/}
-        <Testimonials resumeData={resumeData}/>
+        {/*<Testimonials resumeData={resumeData}/>*/}
         <ContactUs resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
       </div>
