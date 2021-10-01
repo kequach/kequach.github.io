@@ -720,6 +720,10 @@ properly.
 --------------------------------------------------------------- */
 @media only screen and (max-width: 767px) {
 
+   #contact input, #contact textarea, #contact select{
+      width:130% !important;
+   }
+
    .row {
 	   width: 460px;
 	   margin: 0 auto;
