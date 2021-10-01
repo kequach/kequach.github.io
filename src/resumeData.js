@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://beld78.github.io/",
+    "imagebaseurl":"https://kequach.github.io/",
     "name": "Keven Quach",
     "role": "Data Scientist and Web Developer",
     "linkedinId":"Your LinkedIn Id",
@@ -13,37 +13,27 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"http://github.com/beld78",
+          "url":"http://github.com/kequach",
           "className":"fa fa-github"
-        },
-        {
-          "name":"twitter",
-          "url":"https://twitter.com/beld78",
-          "className":"fa fa-twitter"
-        },
-        {
-          "name":"skype",
-          "url":"https://www.xing.com/profile/Keven_Quach",
-          "className":"fa fa-xing"
         }
       ],
     "aboutme":`I am a Master Business Informatics student at Utrecht University. I am a freelance Data Scientist and Full Stack Web Developer. 
     In addition to several consulting internships, I was also a board member of the student consulting group cogita! e.V. where I was responsible for external topics (acquiring projects, customers, business partners), as well as overseeing the departments training and acquisition. 
     In my free time, I like to play video games, table tennis or go bouldering. I'm playing Super Smash Bros. Melee competetively since 2008.`,
     "address":"Utrecht, Netherlands",
-    "website":"https://beld78.github.io/",
+    "website":"https://kequach.github.io/",
     "education":[
       {
-        "UniversityName":"Utrecht University",
+        "UniversityName":"Utrecht University (NL)",
         "specialization":"Business Informatics - Applied Data Science Profile",
         "MonthOfJoining":"Aug",
         "YearOfJoining":"2020",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2022",
-        "Achievements":""
+        "Achievements":"Grade average 8.1"
       },
       {
-        "UniversityName":"Skövde University",
+        "UniversityName":"Skövde University (SWE)",
         "specialization":"Semester abroad",
         "MonthOfJoining":"Aug",
         "YearOfJoining":"2018",
@@ -52,7 +42,7 @@ let resumeData = {
         "Achievements":"Grade average 1.0"
       },
       {
-        "UniversityName":"Otto-Friedrich-University Bamberg",
+        "UniversityName":"Otto-Friedrich-University Bamberg (GER)",
         "specialization":"Business Informatics",
         "MonthOfJoining":"Sep",
         "YearOfJoining":"2015",
@@ -66,19 +56,21 @@ let resumeData = {
       {
         "CompanyName":"Utrecht University",
         "Location":"Utrecht",
-        "specialization":"Teaching Assistant",
+        "specialization":"Teaching and Research Assistant",
         "MonthOfJoining":"Nov",
         "YearOfJoining":"2020",
         "MonthOfLeaving":"Present",
         "YearOfLeaving":"",
-        "Achievements":`• Supervise tutorials and assignments in the course “Concurrency”
+        "Achievements":`• Supervised tutorials and assignments in the course “Concurrency”
+        • UU's Open Science Program - Project: Scan of Open Research Data at UU (SWORDS)
+        • UU's Open Science Program - Assistance in the FAIR data and software Track
         `
       },
       {
         "CompanyName":"Quach Consulting",
         "Location":"Utrecht",
         "specialization":"Freelancer",
-        "MonthOfJoining":"Jul",
+        "MonthOfJoining":"Oct",
         "YearOfJoining":"2020",
         "MonthOfLeaving":"Present",
         "YearOfLeaving":"",
@@ -86,6 +78,19 @@ let resumeData = {
         -	Lead project management for previous project to determine degree of contamination
         -	Organized trainings in Python and data science
         -	Held talk about customer project in data-driven advertising
+        `
+      },
+      {
+        "CompanyName":"Procter & Gamble",
+        "Location":"Schwalbach",
+        "specialization":"Intern IT",
+        "MonthOfJoining":"Jul",
+        "YearOfJoining":"2021",
+        "MonthOfLeaving":"Sep",
+        "YearOfLeaving":"2021",
+        "Achievements":`•	Lead metrics and monitoring development for IIoT platform and ML models
+        -	Developed metrics in Python
+        -	Created monitoring dashboard in Grafana
         `
       },
       {
@@ -133,7 +138,7 @@ let resumeData = {
       {
         "CompanyName":"Otto-Friedrich-University",
         "Location":"Bamberg",
-        "specialization":"Student tutor",
+        "specialization":"Teaching Assistant",
         "MonthOfJoining":"Apr",
         "YearOfJoining":"2017",
         "MonthOfLeaving":"Jul",
@@ -164,10 +169,13 @@ let resumeData = {
         "skillname":"R"
       },
       {
-        "skillname":"Angular"
+        "skillname":"Azure"
       },
       {
         "skillname":"TypeScript"
+      },
+      {
+        "skillname":"Angular"
       },
       {
         "skillname":"Java"
@@ -176,13 +184,16 @@ let resumeData = {
         "skillname":"MySQL"
       },
       {
-        "skillname":"Azure"
+        "skillname":"Grafana"
       },
       {
         "skillname":"HTML5"
       },
       {
         "skillname":"CSS3"
+      },
+      {
+        "skillname":"gRPC"
       },
       {
         "skillname":"PHP"
