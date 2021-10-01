@@ -334,11 +334,14 @@ ul#nav li.current a { color: #F06000; }
 .r {
    width: 70%;
 }
-.angular {
+.azure {
    width: 70%;
 }
 .typescript {
    width: 70%;
+}
+.angular {
+   width: 60%;
 }
 .java {
    width: 60%;
@@ -346,8 +349,8 @@ ul#nav li.current a { color: #F06000; }
 .mysql {
    width: 60%;
 }
-.azure {
-   width: 50%;
+.grafana {
+   width: 60%;
 }
 .html5 {
   	width: 50%;
@@ -355,17 +358,20 @@ ul#nav li.current a { color: #F06000; }
 .css3 {
    width: 50%;
 }
+.grpc {
+   width: 40%;
+}
 .php {
    width: 40%;
 }
 .talend {
    width: 40%;
 }
-.React {
-  	width: 20%;
-}
 .vba {
    width: 40%;
+}
+.react {
+  	width: 20%;
 }
 
 @-moz-keyframes css {
