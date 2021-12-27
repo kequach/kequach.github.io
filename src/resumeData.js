@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Data Scientist and Web Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like learning and teaching. I offer my services in Data Science and Web Development. Due to my years of teaching experience, I am also able to teach you a lot about these topics. If you are interested, please contact me!",
+    "roleDescription": "I like learning and teaching. I offer my services in Data Science and Web Development. Due to my years of teaching experience, I am also able to teach you about these topics. If you are interested, please contact me!",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -46,8 +46,8 @@ let resumeData = {
         "specialization":"Business Informatics",
         "MonthOfJoining":"Sep",
         "YearOfJoining":"2015",
-        "MonthOfPassing":"Mar",
-        "YearOfPassing":"2020",
+        "MonthOfPassing":"Oct",
+        "YearOfPassing":"2019",
         "Achievements":`Grade 1.4 | Top 2 graduate in final semester
         Bachelor thesis grade 1.3 | How Semantic Text Features in Project Descriptions Predict Funding Success: An Exploratory Study from a Reward-Based Crowdfunding Platform`
       }
@@ -62,8 +62,10 @@ let resumeData = {
         "MonthOfLeaving":"Present",
         "YearOfLeaving":"",
         "Achievements":`• Supervised tutorials and assignments in the course “Concurrency”
-        • UU's Open Science Program - Project: Scan of Open Research Data at UU (SWORDS)
-        • UU's Open Science Program - Assistance in the FAIR data and software Track
+        • UU's Open Science Program - Project: Scan and revieW of Open Research Data and Software
+        - Data engineering in Python (https://github.com/UtrechtUniversity/SWORDS-UU)
+        - Assistance in the FAIR data and software track
+        
         `
       },
       {
@@ -89,7 +91,7 @@ let resumeData = {
         "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2021",
         "Achievements":`•	Lead metrics and monitoring development for IIoT platform and ML models
-        -	Developed metrics in Python
+        -	Developed Prometheus metrics in Python
         -	Created monitoring dashboard in Grafana
         `
       },
@@ -116,7 +118,7 @@ let resumeData = {
         "YearOfLeaving":"2020",
         "Achievements":`• Assisted in IoT project with a Japanese car manufacturer
         -	Setup cloud environment and architecture 
-        -	Developed web app for ticket processing
+        -	Developed web app for ticket processing in Angular
         •	Conducted weekly Python training for an IoT cross-departmental team
         •	Organized company internal hackathon
          `
@@ -129,7 +131,7 @@ let resumeData = {
         "YearOfJoining":"2018",
         "MonthOfLeaving":"Oct",
         "YearOfLeaving":"2019",
-        "Achievements":`•	Assisted in a project team for digitalization of logistics processes
+        "Achievements":`•	Assisted in a project team for digitalization of logistics processes with Angular and PHP
         -	Continuous development of live-systems and development of new systems
         -	Independent second level support for 3 different projects
         -	Management of ETL processes 
