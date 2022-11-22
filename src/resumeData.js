@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Software Engineer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like learning and teaching. I have a focus on Data Science and Web Development. Due to my years of teaching experience, I am also able to teach you about these topics, as well as computer science introduction topics. If you are interested, please contact me!",
+    "roleDescription": "I like learning and teaching. I have a focus on Data Science and Web Development and like (industrial) IoT. Due to my years of teaching experience, I am also able to teach you about these topics, as well as computer science introduction topics. If you are interested, please contact me!",
     "socialLinks":[
         {
           "name":"linkedin",
