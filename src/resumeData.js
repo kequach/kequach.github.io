@@ -17,8 +17,8 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":`I am a software engineer at Bosch Connected Industry. I graduated in the Master program Business Informatics from Utrecht University.
-    In addition to several consulting internships, I was also a board member of the student consulting group cogita! e.V. where I was responsible for external topics (acquiring projects, customers, business partners), as well as overseeing the departments training and acquisition. 
+    "aboutme":`I am a software engineer at Bosch Connected Industry. I graduated in the Master program Business Informatics at Utrecht University.
+    In addition to several technical consulting internships, I was also a board member of the student consulting group cogita! e.V. where I was responsible for external topics (acquiring projects, customers, business partners), as well as overseeing the departments training and acquisition. 
     In my free time, I like to play video games, table tennis or go bouldering. I'm playing Super Smash Bros. Melee competetively since 2008.`,
     "address":"Friedrichshafen, Germany",
     "website":"https://kequach.github.io/",
