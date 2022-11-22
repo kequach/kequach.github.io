@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://kequach.github.io/",
     "name": "Keven Quach",
-    "role": "Data Scientist and Web Developer",
+    "role": "Software Engineer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like learning and teaching. I offer my services in Data Science and Web Development. Due to my years of teaching experience, I am also able to teach you about these topics. If you are interested, please contact me!",
+    "roleDescription": "I like learning and teaching. I have a focus on Data Science and Web Development. Due to my years of teaching experience, I am also able to teach you about these topics, as well as computer science introduction topics. If you are interested, please contact me!",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,10 +17,10 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":`I am a Master Business Informatics student at Utrecht University. I am a freelance Data Scientist and Full Stack Web Developer. 
+    "aboutme":`I am a software engineer at Bosch Connected Industry. I graduated in the Master program Business Informatics from Utrecht University.
     In addition to several consulting internships, I was also a board member of the student consulting group cogita! e.V. where I was responsible for external topics (acquiring projects, customers, business partners), as well as overseeing the departments training and acquisition. 
     In my free time, I like to play video games, table tennis or go bouldering. I'm playing Super Smash Bros. Melee competetively since 2008.`,
-    "address":"Utrecht, Netherlands",
+    "address":"Friedrichshafen, Germany",
     "website":"https://kequach.github.io/",
     "education":[
       {
@@ -30,7 +30,8 @@ let resumeData = {
         "YearOfJoining":"2020",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2022",
-        "Achievements":"Grade average 8.1"
+        "Achievements":`Grade average 8.2 | Cum laude
+        Master thesis grade 8.5 | Mapping Research Software Landscapes through Exploratory Studies of GitHub Data`
       },
       {
         "UniversityName":"Skövde University (SWE)",
@@ -54,16 +55,27 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Bosch Connected Industry",
+        "Location":"Immenstaad",
+        "specialization":"Software Engineer",
+        "MonthOfJoining":"Nov",
+        "YearOfJoining":"2022",
+        "MonthOfLeaving":"Present",
+        "YearOfLeaving":"",
+        "Achievements":`• Developer for device management software
+        `
+      },
+      {
         "CompanyName":"Utrecht University",
         "Location":"Utrecht",
         "specialization":"Teaching and Research Assistant",
         "MonthOfJoining":"Nov",
         "YearOfJoining":"2020",
-        "MonthOfLeaving":"Present",
-        "YearOfLeaving":"",
+        "MonthOfLeaving":"Oct",
+        "YearOfLeaving":"2022",
         "Achievements":`• Supervised tutorials and assignments in the course “Concurrency”
         • UU's Open Science Program - Project: Scan and revieW of Open Research Data and Software
-        - Data engineering in Python (https://github.com/UtrechtUniversity/SWORDS-UU)
+        - Project: Scan and revieW of Open Research Data and Software at UU: (https://github.com/UtrechtUniversity/SWORDS-UU)
         - Assistance in the FAIR data and software track
         
         `
@@ -74,8 +86,8 @@ let resumeData = {
         "specialization":"Freelancer",
         "MonthOfJoining":"Oct",
         "YearOfJoining":"2020",
-        "MonthOfLeaving":"Present",
-        "YearOfLeaving":"",
+        "MonthOfLeaving":"Jul",
+        "YearOfLeaving":"2022",
         "Achievements":`•	Freelance data science consultant at STAT-UP
         -	Lead project management for previous project to determine degree of contamination
         -	Organized trainings in Python and data science
