@@ -177,13 +177,16 @@ let resumeData = {
     "skillsDescription":"The bars represent my comfortability with the technology",
     "skills":[
       {
+        "skillname":"Java"
+      },
+      {
         "skillname":"Python"
       },
       {
-        "skillname":"R"
+        "skillname":"Azure"
       },
       {
-        "skillname":"Azure"
+        "skillname":"R"
       },
       {
         "skillname":"TypeScript"
@@ -192,13 +195,10 @@ let resumeData = {
         "skillname":"Angular"
       },
       {
-        "skillname":"Java"
+        "skillname":"SQL"
       },
       {
-        "skillname":"MySQL"
-      },
-      {
-        "skillname":"Grafana"
+        "skillname":"Grafana & Elastic"
       },
       {
         "skillname":"HTML5"
@@ -207,20 +207,11 @@ let resumeData = {
         "skillname":"CSS3"
       },
       {
-        "skillname":"gRPC"
-      },
-      {
         "skillname":"PHP"
-      },
-      {
-        "skillname":"Talend"
       },
       {
         "skillname":"VBA"
       },
-      {
-        "skillname":"React"
-      }
     ],
     "portfolio":[
       {
