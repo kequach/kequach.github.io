@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { renderTextWithLinks } from '../utils/textParser';
+
 export default class About extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -33,7 +35,7 @@ export default class About extends Component {
                      {resumeData.address}
                     </span>
                     <br></br>
-                    <span>{resumeData.website}</span>
+                    <span>{renderTextWithLinks(resumeData.website)}</span>
        					   </p>
                   </div>
                </div>

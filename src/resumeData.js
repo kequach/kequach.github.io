@@ -1,10 +1,11 @@
 let resumeData = {
     "imagebaseurl":"https://kequach.github.io/",
-    "name": "Keven Quach",
+    "name": `Keven Quach
+    Software engineer @ Bosch`,
     "role": "Software Engineer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like learning and teaching. I have a focus on Data Science and Web Development and like (industrial) IoT. Due to my years of teaching experience, I am also able to teach you about these topics, as well as computer science introduction topics. If you are interested, please contact me!",
+    "roleDescription": `Specializing in Java development, infrastructure, and customer-focused solutions.`,
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,11 +18,10 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":`I am a software engineer at Bosch Connected Industry. I graduated in the Master program Business Informatics at Utrecht University.
-    In addition to several technical consulting internships, I was also a board member of the student consulting group cogita! e.V. where I was responsible for external topics (acquiring projects, customers, business partners), as well as overseeing the departments training and acquisition. 
-    In my free time, I like to play video games, table tennis or go bouldering. I'm playing Super Smash Bros. Melee competetively since 2008.`,
-    "address":"Friedrichshafen, Germany",
-    "website":"https://kequach.github.io/",
+    "aboutme":`I graduated in the Master program Business Informatics at Utrecht University. 
+    In addition to several technical consulting experiences, I was also a board member of the student consulting group cogita! e.V. where I was responsible for external topics (acquiring projects, customers, business partners), as well as overseeing the departments training and acquisition.`,
+    "address":"Frankfurt, Germany",
+    "website":"[kequach.github.io](https://kequach.github.io/)",
     "education":[
       {
         "UniversityName":"Utrecht University (NL)",
@@ -30,17 +30,8 @@ let resumeData = {
         "YearOfJoining":"2020",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2022",
-        "Achievements":`Grade average 8.2 | Cum laude
-        Master thesis grade 8.5 | Mapping Research Software Landscapes through Exploratory Studies of GitHub Data`
-      },
-      {
-        "UniversityName":"Skövde University (SWE)",
-        "specialization":"Semester abroad",
-        "MonthOfJoining":"Aug",
-        "YearOfJoining":"2018",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2019",
-        "Achievements":"Grade average 1.0"
+        "Achievements":`Grade 8.2 | Cum laude
+        • Master thesis grade 8.5 | Mapping Research Software Landscapes through Exploratory Studies of GitHub Data`
       },
       {
         "UniversityName":"Otto-Friedrich-University Bamberg (GER)",
@@ -50,7 +41,8 @@ let resumeData = {
         "MonthOfPassing":"Oct",
         "YearOfPassing":"2019",
         "Achievements":`Grade 1.4 | Top 2 graduate in final semester
-        Bachelor thesis grade 1.3 | How Semantic Text Features in Project Descriptions Predict Funding Success: An Exploratory Study from a Reward-Based Crowdfunding Platform`
+        • Semester abroad at Skövde University (SWE), Aug 2018 - Jan 2019 | Grade average 1.0
+        • Bachelor thesis grade 1.3 | How Semantic Text Features in Project Descriptions Predict Funding Success: An Exploratory Study from a Reward-Based Crowdfunding Platform`
       }
     ],
     "work":[
@@ -62,7 +54,9 @@ let resumeData = {
         "YearOfJoining":"2022",
         "MonthOfLeaving":"Present",
         "YearOfLeaving":"",
-        "Achievements":`• Developer for device management software
+        "Achievements":`• Software engineer for [device management software](https://www.bosch-connected-industry.com/de/en/portfolio/nexeed-automation/device-management), handling 500.000 devices 24/7. 
+        - Mainly focused on backend development with Java and Spring Boot using Webflux
+        - Additional focus on handling infrastructural topics like Helm deployments and operations via Kubernetes
         `
       },
       {
@@ -75,23 +69,9 @@ let resumeData = {
         "YearOfLeaving":"2022",
         "Achievements":`• Supervised tutorials and assignments in the course “Concurrency”
         • UU's Open Science Program - Project: Scan and revieW of Open Research Data and Software
-        - Project: Scan and revieW of Open Research Data and Software at UU: (https://github.com/UtrechtUniversity/SWORDS-UU)
+        - Project: [Scan and revieW of Open Research Data and Software at UU](https://github.com/UtrechtUniversity/SWORDS-UU)
         - Assistance in the FAIR data and software track
         
-        `
-      },
-      {
-        "CompanyName":"Quach Consulting",
-        "Location":"Utrecht",
-        "specialization":"Freelancer",
-        "MonthOfJoining":"Oct",
-        "YearOfJoining":"2020",
-        "MonthOfLeaving":"Jul",
-        "YearOfLeaving":"2022",
-        "Achievements":`•	Freelance data science consultant at STAT-UP
-        -	Lead project management for previous project to determine degree of contamination
-        -	Organized trainings in Python and data science
-        -	Held talk about customer project in data-driven advertising
         `
       },
       {
@@ -174,71 +154,74 @@ let resumeData = {
         `
       }
     ],
-    "skillsDescription":"The bars represent my comfortability with the technology",
     "skills":[
       {
-        "skillname":"Java"
+        "skillname":"Java: Spring Boot, Webflux, Playwright"
       },
       {
-        "skillname":"Python"
+        "skillname":"Python: pipeline scripting, data science libraries, Selenium automation)"
       },
       {
-        "skillname":"Azure"
+        "skillname":"Infrastructure: Helm, Kubernetes, Docker (CKAD certified)"
       },
       {
-        "skillname":"R"
+        "skillname":"Cloud: Azure"
       },
       {
-        "skillname":"TypeScript"
+        "skillname":"Web development: TypeScript, Angular, HTML & CSS"
       },
       {
-        "skillname":"Angular"
+        "skillname":"Databases: MSSQL, Oracle"
       },
       {
-        "skillname":"SQL"
+        "skillname":"Monitoring: Grafana & Elastic"
       },
       {
-        "skillname":"Grafana & Elastic"
+        "skillname":"Other: VBA, R, PHP"
+      },
+    ],
+    "interests":[
+      {
+        "interest":`Super Smash Bros. Melee - competitive player since 2008
+        - [Top 14 in Germany 2022](https://www.ssbwiki.com/German_Power_Rankings#2022_2)
+        - 1st/17 at [Z-Drop 2, Augsburg](https://www.start.gg/tournament/z-drop-2-1/event/melee-singles/standings)
+        - 5th/42 at [TGM Esports Unlimited #2, Mainz](https://www.start.gg/tournament/tgm-esports-unlimited-2/event/melee-singles/standings)
+        - 7th/59 at [Battlegateway #30, Tokyo](https://www.start.gg/tournament/battlegateway-30/event/dx-melee-singles-1-vs-1/standings)
+        - 9th/69 at [Reimeisai- #0, Tokyo](https://www.start.gg/tournament/reimeisai-0/event/ssbm-1vs1/standings)
+        - 13th/111 at [Awakening II, Munich](https://www.start.gg/tournament/awakening-ii/event/melee-singles/standings)
+        - 17th/118 at [RAID, London](https://www.start.gg/tournament/raid/event/melee-singles/standings)
+        - 33rd/203 at [Dreamhack Rotterdam Smash Championship 2022](https://www.start.gg/tournament/dreamhack-rotterdam-smash-championship-2022/event/melee-singles/standings)
+        - 49th/226 at [Sapf, Hannover](https://www.start.gg/tournament/sapf/event/melee-singles/standings)
+        
+        `
       },
       {
-        "skillname":"HTML5"
+        "interest":`[Table tennis](https://www.mytischtennis.de/click-tt/TTVSA/24--25/spieler/1774652/spielerportrait) 
+        - Playing in different clubs since 2018
+        - Currently playing for TV Preungesheim 1880 / HeTTV`
       },
       {
-        "skillname":"CSS3"
+        "interest":"Bouldering - since 2019"
       },
       {
-        "skillname":"PHP"
+        "interest":"Video games - mostly roguelikes and JRPGs"
       },
       {
-        "skillname":"VBA"
-      },
+        "interest":"Cooking"
+      }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Doctor collector",
+        "description":`Jupyter Notebook script to retrieve email information and automatically contact doctors/therapists via therapie.de.`,
+        "logo":"images/logo-doctor-collector.png",
+        "github":"https://github.com/kequach/Doctor-collector"
       }
     ],
     "testimonials":[
       {
         "description":"Keven is a great guy",
-        "name":"Keven's mother"
+        "name":"Keven's wife"
       }
     ]
   }
