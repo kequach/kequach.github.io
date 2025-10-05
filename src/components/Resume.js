@@ -9,11 +9,11 @@ export default class Resume extends Component {
       <section id="resume">
         {/* Work Section */}
         <div className="row work">
-          <div className="three columns header-col">
+          <div className="two columns header-col">
             <h1><span>Work</span></h1>
           </div>
           
-          <div className="nine columns main-col">
+          <div className="ten columns main-col">
             {resumeData.work && resumeData.work.map((item, index) => {
               return (
                 <div key={index} className="row item">
@@ -38,11 +38,11 @@ export default class Resume extends Component {
 
         {/* Education Section */}
         <div className="row education">
-          <div className="three columns header-col">
+          <div className="two columns header-col">
             <h1><span>Education</span></h1>
           </div>
           
-          <div className="nine columns main-col">
+          <div className="ten columns main-col">
             {resumeData.education && resumeData.education.map((item, index) => {
               return (
                 <div key={index} className="row item">
@@ -67,11 +67,11 @@ export default class Resume extends Component {
 
         {/* Skills Section */}
         <div className="row skill">
-          <div className="three columns header-col">
+          <div className="two columns header-col">
             <h1><span>Skills</span></h1>
           </div>
           
-          <div className="nine columns main-col">
+          <div className="ten columns main-col">
             <div className="skills-list">
               <ul className="skills">
                 {resumeData.skills && resumeData.skills.map((item, index) => {
@@ -90,11 +90,11 @@ export default class Resume extends Component {
 
         {/* Interests Section */}
         <div className="row skill">
-          <div className="three columns header-col">
+          <div className="two columns header-col">
             <h1><span>Interests</span></h1>
           </div>
           
-          <div className="nine columns main-col">
+          <div className="ten columns main-col">
             <div className="skills-list">
               <ul className="skills">
                 {resumeData.interests && resumeData.interests.map((item, index) => {

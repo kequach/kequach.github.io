@@ -7,11 +7,11 @@ export default class Portfolio extends Component {
     return (
       <section id="portfolio">
         <div className="row">
-          <div className="three columns header-col">
+          <div className="two columns header-col">
             <h1><span>Projects</span></h1>
           </div>
           
-          <div className="nine columns main-col">
+          <div className="ten columns main-col">
             {resumeData.portfolio && resumeData.portfolio.map((item, index) => {
               return (
                 <div key={index} className="row item">
