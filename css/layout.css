@@ -235,7 +235,7 @@ ul#nav li.current a { color: #F06000; }
    font-size: 20px;
 }
 .line-break {
-   white-space: pre-line;
+   white-space: pre-wrap;
 }
 
 
@@ -482,7 +482,7 @@ ul#nav li.current a { color: #F06000; }
    padding-right: 5%; 
 }
 .line-break {
-   white-space: pre-line;
+   white-space: pre-wrap;
 }
 
 /* Project with logo layout */
