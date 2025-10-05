@@ -18,7 +18,7 @@ let resumeData = {
         }
       ],
     "aboutme":`I have several years of experience in technical roles, working across startups, consultancies, and large corporations. Alongside my technical work, I enjoy collaborating with customers, presenting, and teaching. I have designed and facilitated customer and internal workshops, organized hackathons, delivered conference presentations on my research and master’s thesis, and served on the board of a student consulting group responsible for external relations. Presenting comes naturally to me, supported by several years of teaching experience.
-Currently, I am working for Bosch at Bosch Connected Industry. I also hold a Master degree in Business Informatics from Utrecht University. Outside of work, you can find me playing table tennis or in the boulder hall.
+Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master degree in Business Informatics from Utrecht University. Outside of work, you can find me playing table tennis or in the boulder hall.
     `,
     "address":"Frankfurt, Germany",
     "website":"[kequach.github.io](https://kequach.github.io/)",
@@ -54,11 +54,11 @@ Currently, I am working for Bosch at Bosch Connected Industry. I also hold a Mas
         "YearOfJoining":"2022",
         "MonthOfLeaving":"Present",
         "YearOfLeaving":"",
-        "Achievements":`• Software engineer for [device management software](https://www.bosch-connected-industry.com/de/en/portfolio/nexeed-automation/device-management), handling 500.000 devices 24/7. 
-  ◦ Mainly focused on backend development with Java and Spring Boot using Webflux
-  ◦ Additional focus on handling infrastructural topics like Helm deployments and operations via Kubernetes
-  ◦ Led initial deployment to Bosch's on-premises environment, enabling sales to internal customers
-  ◦ Designed and facilitated multi-day technical workshop for customer onboarding 
+        "Achievements":`• Software engineer for [device management software](https://www.bosch-connected-industry.com/de/en/portfolio/nexeed-automation/device-management) managing over 500,000 devices 24/7 
+  ◦ Primarily focused on backend development with Java and Spring Boot using WebFlux
+  ◦ Responsible for infrastructure topics such as Helm deployments and Kubernetes operations
+  ◦ Led the initial on-premises deployment, enabling internal sales to Bosch business units
+  ◦ Designed and facilitated a multi-day technical workshop for customer onboarding 
         `
       },
       {
@@ -70,8 +70,7 @@ Currently, I am working for Bosch at Bosch Connected Industry. I also hold a Mas
         "MonthOfLeaving":"Oct",
         "YearOfLeaving":"2022",
         "Achievements":`• Supervised tutorials and assignments in the course “Concurrency”
-• UU's Open Science Program - Project: Scan and revieW of Open Research Data and Software
-  ◦ Project: [Scan and revieW of Open Research Data and Software at UU](https://github.com/UtrechtUniversity/SWORDS-UU)
+• Contributed to the Open Science Program project [Scan and revieW of Open Research Data and Software at UU](https://github.com/UtrechtUniversity/SWORDS-UU)
   ◦ Assistance in the FAIR data and software track
   ◦ Resulting article: [How FAIR is the software landscape of Utrecht University?](https://www.uu.nl/en/news/how-fair-is-the-software-landscape-of-utrecht-university)
   ◦ Presented topic at conference [deRSE23](https://zenodo.org/records/8150215)
@@ -80,42 +79,42 @@ Currently, I am working for Bosch at Bosch Connected Industry. I also hold a Mas
       {
         "CompanyName":"Procter & Gamble",
         "Location":"Schwalbach",
-        "specialization":"Intern IT",
+        "specialization":"IT Intern",
         "MonthOfJoining":"Jul",
         "YearOfJoining":"2021",
         "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2021",
-        "Achievements":`• Lead metrics and monitoring development for IIoT platform and ML models
-  ◦ Developed Prometheus metrics in Python
-  ◦ Created monitoring dashboard in Grafana
+        "Achievements":`• Developed metrics and monitoring solutions for IIoT platforms and ML models
+  ◦ Implemented Prometheus metrics in Python
+  ◦ Created monitoring dashboards in Grafana
         `
       },
       {
         "CompanyName":"STAT-UP Statistical Consulting & Data Science GmbH",
         "Location":"Munich",
-        "specialization":"Intern Data Science Consultant",
+        "specialization":"Data Science Intern",
         "MonthOfJoining":"Apr",
         "YearOfJoining":"2020",
         "MonthOfLeaving":"Jul",
         "YearOfLeaving":"2020",
-        "Achievements":`• Assisted in a project to determine the degree of contamination in industrial cotton machines on edge computing hardware
+        "Achievements":`• Supported a project analyzing contamination levels in industrial cotton machines using edge computing hardware
 • Developed a Shiny app for component configuration
-• Created internal web development training
+• Designed internal training on web development
         `
       },
       {
         "CompanyName":"Robert Bosch GmbH",
         "Location":"Tokyo",
-        "specialization":"Intern IoT Consulting",
+        "specialization":"IoT Inhouse Consulting Intern",
         "MonthOfJoining":"Nov",
         "YearOfJoining":"2019",
         "MonthOfLeaving":"Mar",
         "YearOfLeaving":"2020",
-        "Achievements":`• Assisted in IoT project with a Japanese car manufacturer
-  ◦ Setup cloud environment and architecture 
-  ◦ Developed web app for ticket processing in Angular
+        "Achievements":`• Supported an IoT project with a Japanese automotive manufacturer
+  ◦ Set up cloud environment and system architecture 
+  ◦ Developed a web application for ticket processing using Angular
 • Conducted weekly Python training for an IoT cross-departmental team
-• Organized company internal hackathon
+• Organized an internal company hackathon
          `
       },
       {
@@ -126,10 +125,10 @@ Currently, I am working for Bosch at Bosch Connected Industry. I also hold a Mas
         "YearOfJoining":"2018",
         "MonthOfLeaving":"Oct",
         "YearOfLeaving":"2019",
-        "Achievements":`• Assisted in a project team for digitalization of logistics processes with Angular and PHP
-  ◦ Continuous development of live-systems and development of new systems
-  ◦ Independent second level support for 3 different projects
-  ◦ Management of ETL processes 
+        "Achievements":`• Contributed to a project team digitalizing logistics processes using Angular and PHP
+  ◦ Continued development of live systems and implementation of new solutions
+  ◦ Provided independent second-level support for three ongoing projects
+  ◦ Managed ETL processes 
         `
       },
       {
@@ -140,29 +139,29 @@ Currently, I am working for Bosch at Bosch Connected Industry. I also hold a Mas
         "YearOfJoining":"2017",
         "MonthOfLeaving":"Jul",
         "YearOfLeaving":"2019",
-        "Achievements":`• Supervised tutorials and assignments in the courses “Introduction to Computer Architecture and Operating Systems”, “Introduction to Algorithms, Programming and Software”, “Java Programming”, “Advanced Java Programming” for 4 semesters`
+        "Achievements":`• Supervised tutorials and assignments for the courses “Introduction to Computer Architecture and Operating Systems”, “Introduction to Algorithms, Programming and Software”, “Java Programming”, and “Advanced Java Programming” over four semesters`
       },
       {
         "CompanyName":"PricewaterhouseCoopers GmbH",
         "Location":"Frankfurt",
-        "specialization":"Intern Technology Consulting",
+        "specialization":"Technology Consulting Intern",
         "MonthOfJoining":"Jan",
         "YearOfJoining":"2018",
         "MonthOfLeaving":"Mar",
         "YearOfLeaving":"2018",
-        "Achievements":`• Assisted in a large-scale data warehouse project at a bank: Data Quality and Data Governance
-    ◦ Supervised the software development process
-    ◦ Coordinated bank department and developers as business analyst
-    ◦ Analyzed business data models, transformation excels and ETL processes
+        "Achievements":`• Supported a large-scale data warehouse project for a banking client focusing on data quality and governance
+    ◦ Oversaw software development processes
+    ◦ Coordinated between the client's business units and development teams
+    ◦ Analyzed business data models, transformation logic, and ETL processes
         `
       }
     ],
     "skills":[
       {
-        "skillname":"Java: Spring Boot, Webflux, Playwright"
+        "skillname":"Java: Spring Boot, WebFlux, Playwright"
       },
       {
-        "skillname":"Python: pipeline scripting, data science libraries, Selenium automation)"
+        "skillname":"Python: scripting, data science libraries, Selenium automation"
       },
       {
         "skillname":"Infrastructure: Helm, Kubernetes, Docker (CKAD certified)"
@@ -200,7 +199,7 @@ Currently, I am working for Bosch at Bosch Connected Industry. I also hold a Mas
       },
       {
         "interest":`[Table tennis](https://www.mytischtennis.de/click-tt/TTVSA/24--25/spieler/1774652/spielerportrait) 
-  ◦ Played in different clubs
+  ◦ Played in multiple clubs
   ◦ Currently playing for TV Preungesheim 1880 / HeTTV`
       },
       {
@@ -216,7 +215,7 @@ Currently, I am working for Bosch at Bosch Connected Industry. I also hold a Mas
     "portfolio":[
       {
         "name":"Doctor collector",
-        "description":`Jupyter Notebook script to retrieve email information via therapie.de and automatically contact doctors/therapists.`,
+        "description":`Jupyter Notebook script that retrieves contact information from therapie.de and automatically contacts doctors or therapists.`,
         "logo":"images/logo-doctor-collector.png",
         "github":"https://github.com/kequach/Doctor-collector"
       }
