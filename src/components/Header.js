@@ -13,12 +13,14 @@ export default class Header extends Component {
                <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
                <li><a className="smoothscroll" href="#about">About</a></li>
              <li><a className="smoothscroll" href="#resume">Resume</a></li>
+             <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
             </ul>
          </nav>
 
          <div className="row banner">
             <div className="banner-text">
                <h1 className="responsive-headline">{resumeData.name}</h1>
+               <h2>{resumeData.role}</h2>
                <h3>{resumeData.roleDescription}</h3>
                <hr/>
                <ul className="social">

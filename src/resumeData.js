@@ -1,11 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://kequach.github.io/",
-    "name": `Keven Quach
-    Software engineer @ Bosch`,
-    "role": "Software Engineer",
+    "name": `Keven Quach`,
+    "role": "Software Engineer @ Bosch",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": `Specializing in Java development, infrastructure, and customer-focused solutions.`,
+    "roleDescription": `Specializing in Java development, infrastructure, and customer success.`,
     "socialLinks":[
         {
           "name":"linkedin",
@@ -18,8 +17,9 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":`I graduated in the Master program Business Informatics at Utrecht University. 
-    In addition to several technical consulting experiences, I was also a board member of the student consulting group cogita! e.V. where I was responsible for external topics (acquiring projects, customers, business partners), as well as overseeing the departments training and acquisition.`,
+    "aboutme":`I have several years of experience in technical roles, working across startups, consultancies, and large corporations. Alongside my technical work, I enjoy collaborating with customers, presenting, and teaching. I have designed and facilitated customer and internal workshops, organized hackathons, delivered conference presentations on my research and master’s thesis, and served on the board of a student consulting group responsible for external relations. Presenting comes naturally to me, supported by several years of teaching experience.
+    Currently, I am working for Bosch at Bosch Connected Industry. I also hold a Master degree in Business Informatics from Utrecht University. Outside of work, you can find me playing table tennis or in the boulder hall.
+    `,
     "address":"Frankfurt, Germany",
     "website":"[kequach.github.io](https://kequach.github.io/)",
     "education":[
@@ -57,6 +57,8 @@ let resumeData = {
         "Achievements":`• Software engineer for [device management software](https://www.bosch-connected-industry.com/de/en/portfolio/nexeed-automation/device-management), handling 500.000 devices 24/7. 
         - Mainly focused on backend development with Java and Spring Boot using Webflux
         - Additional focus on handling infrastructural topics like Helm deployments and operations via Kubernetes
+        - Led initial deployment to Bosch's on-premises environment, enabling sales to internal customers
+        - Designed and facilitated multi-day technical workshop for customer onboarding 
         `
       },
       {
@@ -71,7 +73,8 @@ let resumeData = {
         • UU's Open Science Program - Project: Scan and revieW of Open Research Data and Software
         - Project: [Scan and revieW of Open Research Data and Software at UU](https://github.com/UtrechtUniversity/SWORDS-UU)
         - Assistance in the FAIR data and software track
-        
+        - Resulting article: [How FAIR is the software landscape of Utrecht University?](https://www.uu.nl/en/news/how-fair-is-the-software-landscape-of-utrecht-university)
+        - Presented topic at conference [deRSE23](https://zenodo.org/records/8150215)
         `
       },
       {
@@ -182,7 +185,7 @@ let resumeData = {
     ],
     "interests":[
       {
-        "interest":`Super Smash Bros. Melee - competitive player since 2008
+        "interest":`Esports - competitive Super Smash Bros. Melee player since 2008
         - [Top 14 in Germany 2022](https://www.ssbwiki.com/German_Power_Rankings#2022_2)
         - 1st/17 at [Z-Drop 2, Augsburg](https://www.start.gg/tournament/z-drop-2-1/event/melee-singles/standings)
         - 5th/42 at [TGM Esports Unlimited #2, Mainz](https://www.start.gg/tournament/tgm-esports-unlimited-2/event/melee-singles/standings)
@@ -197,11 +200,11 @@ let resumeData = {
       },
       {
         "interest":`[Table tennis](https://www.mytischtennis.de/click-tt/TTVSA/24--25/spieler/1774652/spielerportrait) 
-        - Playing in different clubs since 2018
+        - Played in different clubs
         - Currently playing for TV Preungesheim 1880 / HeTTV`
       },
       {
-        "interest":"Bouldering - since 2019"
+        "interest":"Bouldering"
       },
       {
         "interest":"Video games - mostly roguelikes and JRPGs"
@@ -213,7 +216,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Doctor collector",
-        "description":`Jupyter Notebook script to retrieve email information and automatically contact doctors/therapists via therapie.de.`,
+        "description":`Jupyter Notebook script to retrieve email information via therapie.de and automatically contact doctors/therapists.`,
         "logo":"images/logo-doctor-collector.png",
         "github":"https://github.com/kequach/Doctor-collector"
       }
