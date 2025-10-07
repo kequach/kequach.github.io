@@ -71,7 +71,7 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "YearOfLeaving":"2022",
         "Achievements":`• Supervised tutorials and assignments in the course “Concurrency”
 • Contributed to the Open Science Program project [Scan and revieW of Open Research Data and Software at UU](https://github.com/UtrechtUniversity/SWORDS-UU)
-  ◦ Assisted in the FAIR data and software track strategy
+  ◦ Assisted in the FAIR data and software track
   ◦ Resulting article: [How FAIR is the software landscape of Utrecht University?](https://www.uu.nl/en/news/how-fair-is-the-software-landscape-of-utrecht-university)
   ◦ Presented topic at conference [deRSE23](https://zenodo.org/records/8150215)
         `
@@ -215,7 +215,7 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
     "portfolio":[
       {
         "name":"SWORDS",
-        "description":`Scan and revieW of Open Research Data and Software (SWORDS) project. The SWORDS project is a powerful framework to gain insights in the open source activities of your, but not limited to, university or research institute. By parsing through the results, I was able to create a [list of awesome open source projects from Utrecht University](https://github.com/UtrechtUniversity/awesome-utrecht-university)`,
+        "description":`Scan and revieW of Open Research Data and Software (SWORDS) project. The SWORDS project is a powerful framework designed to provide insights into the open source activities of universities and research institutes. Through my analysis of the project's results, I compiled an initial [list of awesome open source projects from Utrecht University](https://github.com/UtrechtUniversity/awesome-utrecht-university), which gained significant community traction and continues to grow through collaborative contributions.`,
         "logo":"images/swordslogo.png",
         "github":"https://github.com/UtrechtUniversity/SWORDS-UU"
       },
