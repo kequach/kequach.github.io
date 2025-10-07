@@ -214,6 +214,12 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
     ],
     "portfolio":[
       {
+        "name":"SWORDS",
+        "description":`Scan and revieW of Open Research Data and Software (SWORDS) project. The SWORDS project is a powerful framework to gain insights in the open source activities of your, but not limited to, university or research institute. By parsing through the results, I was able to create a [list of awesome open source projects from Utrecht University](https://github.com/UtrechtUniversity/awesome-utrecht-university)`,
+        "logo":"images/swordslogo.png",
+        "github":"https://github.com/UtrechtUniversity/SWORDS-UU"
+      },
+      {
         "name":"Doctor collector",
         "description":`Jupyter Notebook script that retrieves contact information from therapie.de and automatically contacts doctors or therapists.`,
         "logo":"images/logo-doctor-collector.png",
