@@ -218,6 +218,12 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "description":`Jupyter Notebook script that retrieves contact information from therapie.de and automatically contacts doctors or therapists.`,
         "logo":"images/logo-doctor-collector.png",
         "github":"https://github.com/kequach/Doctor-collector"
+      },
+      {
+        "name":"start.gg-event-adder",
+        "description":`This Discord bot automatically fetches real tournament data from the start.gg API and creates scheduled events in your Discord servers.`,
+        "logo":"images/startgglogo.png",
+        "github":"https://github.com/kequach/start.gg-event-adder"
       }
     ],
     "testimonials":[
