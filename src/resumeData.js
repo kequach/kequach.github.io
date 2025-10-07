@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":`I have several years of experience in technical roles, working across startups, consultancies, and large corporations. Alongside my technical work, I enjoy collaborating with customers, presenting, and teaching. I have designed and facilitated customer and internal workshops, organized hackathons, delivered conference presentations on my research and master’s thesis, and served on the board of a student consulting group responsible for external relations. Presenting comes naturally to me, supported by several years of teaching experience.
+    "aboutme":`I have several years of experience in technical roles; working across startups, consultancies, and large corporations. Alongside my technical work, I enjoy collaborating with customers, presenting, and teaching. I have designed and facilitated customer and internal workshops, organized hackathons, delivered conference presentations on my research and master’s thesis, and served on the board of a student consulting group responsible for external relations. Furthermore, presenting comes naturally to me, supported by several years of teaching experience.
 Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master degree in Business Informatics from Utrecht University. Outside of work, you can find me playing table tennis or in the boulder hall.
     `,
     "address":"Frankfurt, Germany",
@@ -30,8 +30,8 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "YearOfJoining":"2020",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2022",
-        "Achievements":`Grade 8.2 | Cum laude
-• Master thesis grade 8.5 | Mapping Research Software Landscapes through Exploratory Studies of GitHub Data`
+        "Achievements":`Grade: 8.2 / 10 (cum laude, top distinction; 10 = best)
+• Master thesis grade 8.5 / 10 | Mapping Research Software Landscapes through Exploratory Studies of GitHub Data`
       },
       {
         "UniversityName":"Otto-Friedrich-University Bamberg (GER)",
@@ -40,9 +40,9 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "YearOfJoining":"2015",
         "MonthOfPassing":"Oct",
         "YearOfPassing":"2019",
-        "Achievements":`Grade 1.4 | Top 2 graduate in final semester
-• Semester abroad at Skövde University (SWE), Aug 2018 - Jan 2019 | Grade average 1.0
-• Bachelor thesis grade 1.3 | How Semantic Text Features in Project Descriptions Predict Funding Success: An Exploratory Study from a Reward-Based Crowdfunding Platform`
+        "Achievements":`Final grade: 1.4 (very good, top 2 of cohort)
+• Semester abroad at Skövde University (SWE), Aug 2018 - Jan 2019 | Grade average A (excellent)
+• Bachelor thesis grade 1.3 (very good) | How Semantic Text Features in Project Descriptions Predict Funding Success: An Exploratory Study from a Reward-Based Crowdfunding Platform`
       }
     ],
     "work":[
@@ -71,7 +71,7 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "YearOfLeaving":"2022",
         "Achievements":`• Supervised tutorials and assignments in the course “Concurrency”
 • Contributed to the Open Science Program project [Scan and revieW of Open Research Data and Software at UU](https://github.com/UtrechtUniversity/SWORDS-UU)
-  ◦ Assistance in the FAIR data and software track
+  ◦ Assisted in the FAIR data and software track strategy
   ◦ Resulting article: [How FAIR is the software landscape of Utrecht University?](https://www.uu.nl/en/news/how-fair-is-the-software-landscape-of-utrecht-university)
   ◦ Presented topic at conference [deRSE23](https://zenodo.org/records/8150215)
         `
