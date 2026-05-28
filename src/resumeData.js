@@ -55,10 +55,10 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "MonthOfLeaving":"Present",
         "YearOfLeaving":"",
         "Achievements":`• Software engineer for [device management software](https://www.bosch-connected-industry.com/de/en/portfolio/nexeed-automation/device-management) managing over 500,000 devices 24/7 
-  ◦ Primarily focused on backend development with Java and Spring Boot using WebFlux
-  ◦ Responsible for infrastructure topics such as Helm deployments and Kubernetes operations
-  ◦ Led the initial on-premises deployment, enabling internal sales to Bosch business units
-  ◦ Designed and facilitated a multi-day technical workshop for customer onboarding 
+  ◦ Designed and led a multi-day technical onboarding workshop for a strategic new customer; deal closed
+  ◦ Led the platform's first on-premises deployment, unlocking adoption by Bosch business units that could not consume the shared Azure tenant; documented as a repeatable runbook
+  ◦ Team expert on infrastructure: Helm, ArgoCD, Hashicorp Vault, mTLS device identity, Trivy scans
+  ◦ Backend development in Java / Spring Boot (WebFlux)
         `
       },
       {
@@ -84,7 +84,7 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "YearOfJoining":"2021",
         "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2021",
-        "Achievements":`• Developed metrics and monitoring solutions for IIoT platforms and ML models
+        "Achievements":`• Gathered requirements and lead monitoring development for IIoT platform with Python and Grafana
   ◦ Implemented Prometheus metrics in Python
   ◦ Created monitoring dashboards in Grafana
         `
@@ -111,10 +111,9 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "MonthOfLeaving":"Mar",
         "YearOfLeaving":"2020",
         "Achievements":`• Supported an IoT project with a Japanese automotive manufacturer
-  ◦ Set up cloud environment and system architecture 
-  ◦ Developed a web application for ticket processing using Angular
+  ◦ Set up cloud infrastructure for an IoT customer project and developed an Angular frontend for ticket processing
 • Conducted weekly Python training for an IoT cross-departmental team
-• Organized an internal company hackathon
+• Organized a location-wide IoT Hackathon event
          `
       },
       {
@@ -164,10 +163,10 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "skillname":"Python: scripting, data science libraries, Selenium automation"
       },
       {
-        "skillname":"Infrastructure: Helm, Kubernetes, Docker (CKAD certified)"
+        "skillname":"Infrastructure: Helm, Kubernetes (CKAD certified), Docker"
       },
       {
-        "skillname":"Cloud: Azure"
+        "skillname":"Cloud: Azure (AZ-900 certified, AZ-104 certified), Azure Pipelines"
       },
       {
         "skillname":"Web development: TypeScript, Angular, HTML & CSS"
@@ -176,7 +175,7 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "skillname":"Databases: MSSQL, Oracle"
       },
       {
-        "skillname":"Monitoring: Grafana & Elastic"
+        "skillname":"Monitoring: Elastic, Kibana, Prometheus, Grafana"
       },
       {
         "skillname":"Other: VBA, R, PHP"
@@ -198,7 +197,7 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         `
       },
       {
-        "interest":`[Table tennis](https://www.mytischtennis.de/click-tt/TTVSA/24--25/spieler/1774652/spielerportrait) 
+        "interest":`Table tennis 
   ◦ Played in multiple clubs
   ◦ Currently playing for TV Preungesheim 1880 / HeTTV`
       },
@@ -218,6 +217,12 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "description":`Scan and revieW of Open Research Data and Software (SWORDS) project. The SWORDS project is a powerful framework designed to provide insights into the open source activities of universities and research institutes. Through my analysis of the project's results, I compiled an initial [list of awesome open source projects from Utrecht University](https://github.com/UtrechtUniversity/awesome-utrecht-university), which gained significant community traction and continues to grow through collaborative contributions.`,
         "logo":"images/swordslogo.png",
         "github":"https://github.com/UtrechtUniversity/SWORDS-UU"
+      },
+      {
+        "name":"Uniqlo sales alerter",
+        "description":`A self-hosted server that monitors Uniqlo sales and sends you notifications when items match your criteria.`,
+        "logo":"images/uniqlo.png",
+        "github":"https://github.com/kequach/uniqlo-sales-alerter"
       },
       {
         "name":"Doctor collector",
