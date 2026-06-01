@@ -59,6 +59,7 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
   ◦ Led the platform's first on-premises deployment, unlocking adoption by Bosch business units that could not consume the shared Azure tenant; documented as a repeatable runbook
   ◦ Team expert on infrastructure: Helm, ArgoCD, Hashicorp Vault, mTLS device identity, Trivy scans
   ◦ Backend development in Java / Spring Boot (WebFlux)
+  ◦ Delivered technical and product demos to stakeholders
         `
       },
       {
