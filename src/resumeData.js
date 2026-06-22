@@ -1,14 +1,14 @@
 let resumeData = {
     "imagebaseurl":"https://kequach.github.io/",
     "name": `Keven Quach`,
-    "role": "Software Engineer @ Bosch",
-    "linkedinId":"Your LinkedIn Id",
+    "role": "Full-stack Software Engineer @ Bosch",
+    "linkedinId":"keven-quach-9907b7122",
     "skypeid": "Your skypeid",
-    "roleDescription": `Specializing in Java development, infrastructure, and customer success.`,
+    "roleDescription": `Backend development | Cloud-native infrastructure | Customer-facing engineering`,
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/keven-quach-9907b7122/",
+          "url":"https://www.linkedin.com/in/keven%F0%9F%96%B1%EF%B8%8F-quach-9907b7122/",
           "className":"fa fa-linkedin"
         },
         {
@@ -17,8 +17,9 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":`I have several years of experience in technical roles; working across startups, consultancies, and large corporations. Alongside my technical work, I enjoy collaborating with customers, presenting, and teaching. I have designed and facilitated customer and internal workshops, organized hackathons, delivered conference presentations on my research and master’s thesis, and served on the board of a student consulting group responsible for external relations. Furthermore, presenting comes naturally to me, supported by several years of teaching experience.
-Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master degree in Business Informatics from Utrecht University. Outside of work, you can find me playing table tennis or in the boulder hall.
+    "aboutme":`I am a full-stack software engineer with a primary focus on backend development, cloud-native infrastructure, and customer-facing engineering. At Bosch Connected Industry, I work on Nexeed Device Portal, a cloud-native platform used by 50+ global customers and more than 500,000 connected devices. My work combines Java/Spring Boot development, Kubernetes-based deployments, CI/CD, GitOps, production troubleshooting, technical documentation, automation, and customer onboarding.
+I enjoy roles where technical depth and communication both matter. I have designed and led customer workshops, presented technical demos and product capabilities, explained infrastructure and pipeline concepts to internal teams, and supported users with practical use cases, API usage, configuration, and device troubleshooting.
+My background also includes research, teaching, mentoring, and consulting experience. During my Master's thesis at Utrecht University, I analyzed 1,500+ GitHub repositories as part of the SWORDS@UU open science project. The findings were featured by Utrecht University, presented to research groups and open science stakeholders, and presented at deRSE23. I am especially interested in Customer Engineering, Solutions Engineering, Sales Engineering, DevOps, Platform Engineering, and Software Engineering roles.
     `,
     "address":"Frankfurt, Germany",
     "website":"[kequach.github.io](https://kequach.github.io/)",
@@ -26,17 +27,18 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
       {
         "UniversityName":"Utrecht University (NL)",
         "specialization":"Business Informatics - Applied Data Science Profile",
-        "MonthOfJoining":"Aug",
+        "MonthOfJoining":"Sep",
         "YearOfJoining":"2020",
-        "MonthOfPassing":"Aug",
+        "MonthOfPassing":"Oct",
         "YearOfPassing":"2022",
         "Achievements":`Grade: 8.2 / 10 (cum laude, top distinction; 10 = best)
-• Master thesis grade 8.5 / 10 | Mapping Research Software Landscapes through Exploratory Studies of GitHub Data`
+• Master thesis grade 8.5 / 10 | Mapping Research Software Landscapes through Exploratory Studies of GitHub Data
+• Developed a data collection and labelling pipeline and analyzed 1,500+ GitHub repositories as part of SWORDS@UU`
       },
       {
         "UniversityName":"Otto-Friedrich-University Bamberg (GER)",
-        "specialization":"Business Informatics",
-        "MonthOfJoining":"Sep",
+        "specialization":"Information Systems",
+        "MonthOfJoining":"Oct",
         "YearOfJoining":"2015",
         "MonthOfPassing":"Oct",
         "YearOfPassing":"2019",
@@ -48,33 +50,34 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
     "work":[
       {
         "CompanyName":"Bosch Connected Industry",
-        "Location":"Immenstaad",
+        "Location":"Immenstaad am Bodensee / Remote",
         "specialization":"Software Engineer",
         "MonthOfJoining":"Nov",
         "YearOfJoining":"2022",
         "MonthOfLeaving":"Present",
         "YearOfLeaving":"",
-        "Achievements":`• Software engineer for [device management software](https://www.bosch-connected-industry.com/de/en/portfolio/nexeed-automation/device-management) managing over 500,000 devices 24/7 
-  ◦ Designed and led a multi-day technical onboarding workshop for a strategic new customer; deal closed
-  ◦ Led the platform's first on-premises deployment, unlocking adoption by Bosch business units that could not consume the shared Azure tenant; documented as a repeatable runbook
-  ◦ Team expert on infrastructure: Helm, ArgoCD, Hashicorp Vault, mTLS device identity, Trivy scans
-  ◦ Backend development in Java / Spring Boot (WebFlux)
-  ◦ Delivered technical and product demos to stakeholders
+        "Achievements":`• Full-stack software engineer for [Nexeed Device Portal](https://www.bosch-connected-industry.com/de/en/portfolio/nexeed-automation/device-management), a cloud-native platform for 50+ global customers and more than 500,000 connected devices
+  ◦ Designed and led a multi-day technical onboarding workshop for a strategic customer; advised users on use cases, API workflows, configuration, device operations, firmware rollouts, remote access, and troubleshooting
+  ◦ Presented technical demos, product capabilities, and infrastructure topics to customers, external stakeholders, and internal teams, including feature demos and pipeline walkthroughs
+  ◦ Led the development-team-side effort for the platform's first on-premises Kubernetes deployment using Helm, ArgoCD, and HashiCorp Vault; coordinated infrastructure and monitoring stakeholders and documented a repeatable runbook
+  ◦ Acted as team-side technical point of contact for infrastructure topics: Helm, ArgoCD, HashiCorp Vault, mTLS device identity, Trivy scans, CI/CD pipelines, Elasticsearch/Kibana observability, and production troubleshooting
+  ◦ Built and maintained CI/CD pipelines for cloud and on-premises environments using Azure Pipelines and ArgoCD
+  ◦ Developed full-stack features with primary focus on backend and infrastructure using Java, Spring Boot, and Angular; created technical documentation for developers, operations teams, and end users
+  ◦ Automated recurring development, deployment, and billing processes with Python, PowerShell, and VBA, reducing one quarterly process from 3 days to under 2 minutes
         `
       },
       {
         "CompanyName":"Utrecht University",
         "Location":"Utrecht",
-        "specialization":"Teaching and Research Assistant",
+        "specialization":"Research & Teaching Assistant",
         "MonthOfJoining":"Nov",
         "YearOfJoining":"2020",
         "MonthOfLeaving":"Oct",
         "YearOfLeaving":"2022",
-        "Achievements":`• Supervised tutorials and assignments in the course “Concurrency”
-• Contributed to the Open Science Program project [Scan and revieW of Open Research Data and Software at UU](https://github.com/UtrechtUniversity/SWORDS-UU)
-  ◦ Assisted in the FAIR data and software track
-  ◦ Resulting article: [How FAIR is the software landscape of Utrecht University?](https://www.uu.nl/en/news/how-fair-is-the-software-landscape-of-utrecht-university)
-  ◦ Presented topic at conference [deRSE23](https://zenodo.org/records/8150215)
+        "Achievements":`• Conducted Master thesis as part of [SWORDS@UU](https://github.com/UtrechtUniversity/SWORDS-UU), independently developing a data collection and labelling pipeline and analyzing 1,500+ GitHub repositories using Python, classification models, and statistical analysis
+  ◦ Findings featured in Utrecht University's article [How FAIR is the software landscape of Utrecht University?](https://www.uu.nl/en/news/how-fair-is-the-software-landscape-of-utrecht-university), archived on Zenodo, and presented at [deRSE23](https://zenodo.org/records/8150215)
+  ◦ Contributed recommendations for FAIR research software practices
+• Supervised tutorials and assignments for the course “Concurrency”
         `
       },
       {
@@ -85,9 +88,9 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "YearOfJoining":"2021",
         "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2021",
-        "Achievements":`• Gathered requirements and lead monitoring development for IIoT platform with Python and Grafana
+        "Achievements":`• Gathered requirements and led monitoring development for an IIoT platform
   ◦ Implemented Prometheus metrics in Python
-  ◦ Created monitoring dashboards in Grafana
+  ◦ Created Grafana dashboards for ML model monitoring
         `
       },
       {
@@ -112,7 +115,8 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "MonthOfLeaving":"Mar",
         "YearOfLeaving":"2020",
         "Achievements":`• Supported an IoT project with a Japanese automotive manufacturer
-  ◦ Set up cloud infrastructure for an IoT customer project and developed an Angular frontend for ticket processing
+  ◦ Set up cloud infrastructure for an IoT customer project and developed an Angular web UI for a customer call center
+  ◦ Connected cloud infrastructure to backend systems through VPN setup
 • Conducted weekly Python training for an IoT cross-departmental team
 • Organized a location-wide IoT Hackathon event
          `
@@ -128,8 +132,30 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
         "Achievements":`• Contributed to a project team digitalizing logistics processes using Angular and PHP
   ◦ Continued development of live systems and implementation of new solutions
   ◦ Provided independent second-level support for three ongoing projects
-  ◦ Managed ETL processes 
+  ◦ Managed ETL processes with Talend
         `
+      },
+      {
+        "CompanyName":"Cogita! e.V.",
+        "Location":"Bamberg",
+        "specialization":"Junior Consultant & Board Member External Relations",
+        "MonthOfJoining":"May",
+        "YearOfJoining":"2017",
+        "MonthOfLeaving":"Jul",
+        "YearOfLeaving":"2019",
+        "Achievements":`• Represented a student consulting organization as Board Member for External Relations, managing corporate partners, acquiring new business partners and workshops, and coordinating client inquiries
+• Led training and enablement activities for acquisition and workshops departments, supporting a team of 20 members
+• Managed a case study contest and workshop series with 100+ participants and €5,000 in revenue`
+      },
+      {
+        "CompanyName":"Otto-Friedrich-University Bamberg",
+        "Location":"Bamberg",
+        "specialization":"Volunteer Make IT Mentor",
+        "MonthOfJoining":"Oct",
+        "YearOfJoining":"2018",
+        "MonthOfLeaving":"Jul",
+        "YearOfLeaving":"2019",
+        "Achievements":`• Mentored two school students on university life in IT, including financial matters, curriculum, preparation, career perspectives, and effective study methods`
       },
       {
         "CompanyName":"Otto-Friedrich-University",
@@ -158,28 +184,28 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
     ],
     "skills":[
       {
-        "skillname":"Java: Spring Boot, WebFlux, Playwright"
+        "skillname":"Certifications: CKAD, Microsoft Certified Azure Administrator Associate (AZ-104), Microsoft Azure Fundamentals (AZ-900), HashiCorp Certified Terraform Associate (004)"
       },
       {
-        "skillname":"Python: scripting, data science libraries, Selenium automation"
+        "skillname":"Languages: Java, Python, SQL (Azure SQL, Oracle), PowerShell, TypeScript, JavaScript/HTML/CSS, VBA, R"
       },
       {
-        "skillname":"Infrastructure: Helm, Kubernetes (CKAD certified), Docker"
+        "skillname":"Backend & full-stack: Spring Boot, REST/API integration, Liquibase, Playwright, Angular"
       },
       {
-        "skillname":"Cloud: Azure (AZ-900 certified, AZ-104 certified), Azure Pipelines"
+        "skillname":"Customer-facing engineering: technical workshops, demos, onboarding, technical support, customer support, API usage, configuration, and troubleshooting"
       },
       {
-        "skillname":"Web development: TypeScript, Angular, HTML & CSS"
+        "skillname":"Infrastructure & DevOps: Kubernetes, Helm, ArgoCD, Docker, Maven, Azure DevOps, Azure Pipelines, CI/CD, GitOps"
       },
       {
-        "skillname":"Databases: MSSQL, Oracle"
+        "skillname":"Cloud & security: Azure, Terraform, HashiCorp Vault, mTLS, OIDC/JWT, Trivy"
       },
       {
-        "skillname":"Monitoring: Elastic, Kibana, Prometheus, Grafana"
+        "skillname":"Monitoring & operations: Elasticsearch, Kibana, Redis, Prometheus, Grafana, production troubleshooting, runbooks"
       },
       {
-        "skillname":"Other: VBA, R, PHP"
+        "skillname":"Documentation & tools: Git, Arc42, AsciiDoc, Antora, GitHub Copilot, Cursor"
       },
     ],
     "interests":[
@@ -210,18 +236,21 @@ Currently, I work for Bosch at Bosch Connected Industry. I also hold a Master de
       },
       {
         "interest":"Cooking"
+      },
+      {
+        "interest":"Juggling"
       }
     ],
     "portfolio":[
       {
         "name":"SWORDS",
-        "description":`Scan and revieW of Open Research Data and Software (SWORDS) project. The SWORDS project is a powerful framework designed to provide insights into the open source activities of universities and research institutes. Through my analysis of the project's results, I compiled an initial [list of awesome open source projects from Utrecht University](https://github.com/UtrechtUniversity/awesome-utrecht-university), which gained significant community traction and continues to grow through collaborative contributions.`,
+        "description":`Scan and revieW of Open Research Data and Software (SWORDS) project. For my Master's thesis, I developed a data collection and labelling pipeline and analyzed 1,500+ GitHub repositories to map research software and FAIR practices at Utrecht University. The work was featured in [Utrecht University's article](https://www.uu.nl/en/news/how-fair-is-the-software-landscape-of-utrecht-university), presented at [deRSE23](https://zenodo.org/records/8150215), and helped seed an [awesome open source list from Utrecht University](https://github.com/UtrechtUniversity/awesome-utrecht-university).`,
         "logo":"images/swordslogo.png",
         "github":"https://github.com/UtrechtUniversity/SWORDS-UU"
       },
       {
         "name":"Uniqlo sales alerter",
-        "description":`A self-hosted server that monitors Uniqlo sales and sends you notifications when items match your criteria.`,
+        "description":`A self-hosted, open source Uniqlo sale alert tool that watches the sale catalogue, filters by size, discount, stock status, and country, then sends matching deals by email or Telegram. It runs in Docker, includes a browser-based settings UI, and supports 22 countries across Europe, Asia, and North America.`,
         "logo":"images/uniqlo.png",
         "github":"https://github.com/kequach/uniqlo-sales-alerter"
       },
