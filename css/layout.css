@@ -441,7 +441,64 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* ------------------------------------------------------------------ */
-/* g. Portfolio Section
+/* g. Feedback Section
+/* ------------------------------------------------------------------ */
+
+#testimonials {
+   background: #202020;
+   padding-top: 90px;
+   padding-bottom: 78px;
+   overflow: hidden;
+}
+
+#testimonials h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   color: #fff;
+}
+
+#testimonials h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+
+#testimonials .header-col {
+   padding-top: 3px;
+}
+
+#testimonials .main-col {
+   padding-right: 5%;
+}
+
+.feedback-list {
+   display: grid;
+   gap: 24px;
+}
+
+#testimonials blockquote {
+   margin: 0;
+   padding: 0 0 0 22px;
+   border-left: 3px solid #11ABB0;
+}
+
+#testimonials blockquote p {
+   font: 18px/34px 'librebaskerville-regular', serif;
+   color: #D8D8D8;
+   margin-bottom: 8px;
+}
+
+#testimonials cite {
+   display: block;
+   font: 13px/24px 'opensans-bold', sans-serif;
+   color: #11ABB0;
+   font-style: normal;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+
+/* ------------------------------------------------------------------ */
+/* h. Portfolio Section
 /* ------------------------------------------------------------------ */
 
 #portfolio {

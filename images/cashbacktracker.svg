@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-labelledby="cashbacktracker-title">
+  <title id="cashbacktracker-title">Cashback Tracker app icon</title>
+  <rect width="108" height="108" rx="18" fill="#073D49" />
+  <path fill="#F9C846" d="M24 54 42 34h44c4.4 0 8 3.6 8 8v24c0 4.4-3.6 8-8 8H42Z" />
+  <path fill="#FFF4BF" d="m33 54 12-13h40c2.2 0 4 1.8 4 4v18c0 2.2-1.8 4-4 4H45Z" />
+  <path
+    fill="none"
+    stroke="#073D49"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="7"
+    d="M65 42c-3.2-3.3-11.2-4.2-15.9-.3-4.7 3.9-2.7 10.1 6.6 11.5C67 54.8 70.4 62 64.4 67.5c-5.8 5.3-15.9 3.8-20.6-1.2"
+  />
+  <path fill="none" stroke="#073D49" stroke-linecap="round" stroke-width="6" d="M55 32v44" />
+</svg>
