@@ -254,6 +254,7 @@ My background also includes research, teaching, mentoring, and consulting experi
       {
         "name":"Cashback Tracker",
         "description":`A local-first Android app for tracking cashback and "try for free" promotions. Built with Kotlin, Jetpack Compose, Material 3, Room, DataStore, Android Keystore-backed encryption, and jsoup. It includes user-triggered URL analysis, CSV import/export, duplicate-use warnings, release automation, documentation, and focused parser/export tests.`,
+        "logo":"images/cashbacktracker.svg",
         "github":"https://github.com/kequach/cashbacktracker"
       },
       {
