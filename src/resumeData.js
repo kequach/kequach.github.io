@@ -271,14 +271,14 @@ My background also includes research, teaching, mentoring, and consulting experi
       },
       {
         "name":"Doctor collector",
-        "description":`Jupyter Notebook script that retrieves contact information from therapie.de and automatically contacts doctors or therapists. It is a small example of turning a manual search process into a repeatable data collection and communication workflow.`,
+        "description":`Doctor Collector is a local Python app for finding therapist contact details on therapie.de, reviewing the collected results, and optionally sending an initial consultation request (Erstgespräch) by email.`,
         "logo":"images/logo-doctor-collector.png",
         "github":"https://github.com/kequach/Doctor-collector"
       }
     ],
     "testimonials":[
       {
-        "description":"Customer workshop feedback highlighted clear structure, patient explanations, and practical support during onboarding to the device platform.",
+        "description":"Keven delivered an outstanding, detailed, and well-structured introduction to the ctrlX CORE X3 and Device Portal. His clear explanations, patience, and practical guidance gave the team confidence in working with the system.",
         "name":"Customer workshop feedback"
       },
       {

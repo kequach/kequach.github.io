@@ -12,6 +12,7 @@ export default class Testimonials extends Component {
               <h1><span>Feedback</span></h1>
             </div>
             <div className="ten columns main-col">
+              <p className="feedback-note">Feedback below is summarized and paraphrased for clarity.</p>
               <div className="feedback-list">
                 {
                   resumeData.testimonials && resumeData.testimonials.map((item, index)=>{
