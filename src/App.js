@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Header from './components/Header';
 import About from './components/About';
 import Resume from './components/Resume';
+import Testimonials from './components/Testimonials';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
@@ -22,6 +23,7 @@ class App extends Component {
         <Header resumeData={resumeData}/>
         <About resumeData={resumeData}/>
         <Resume resumeData={resumeData}/>
+        <Testimonials resumeData={resumeData}/>
         <Portfolio resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
       </div>
