@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full-stack Software Engineer @ Bosch",
     "linkedinId":"keven-quach-9907b7122",
     "skypeid": "Your skypeid",
-    "roleDescription": `Backend development | Cloud-native infrastructure | Customer-facing engineering`,
+    "roleDescription": `Backend focused | Cloud-native infrastructure | DevOps | Customer-facing engineering`,
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,9 +17,13 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":`I am a full-stack software engineer with a primary focus on backend development, cloud-native infrastructure, and customer-facing engineering. At Bosch Connected Industry, I work on Nexeed Device Portal, a cloud-native platform used by 50+ global customers and more than 500,000 connected devices. My work combines Java/Spring Boot development, Kubernetes-based deployments, CI/CD, GitOps, production troubleshooting, technical documentation, automation, and customer onboarding.
-I enjoy roles where technical depth and communication both matter. I have designed and led customer workshops, presented technical demos and product capabilities, explained infrastructure and pipeline concepts to internal teams, and supported users with practical use cases, API usage, configuration, and device troubleshooting.
-My background also includes research, teaching, mentoring, and consulting experience. During my Master's thesis at Utrecht University, I analyzed 1,500+ GitHub repositories as part of the SWORDS@UU open science project. The findings were featured by Utrecht University, presented to research groups and open science stakeholders, and presented at deRSE23. I am especially interested in Customer Engineering, Solutions Engineering, Sales Engineering, DevOps, Platform Engineering, and Software Engineering roles.
+    "aboutme":`I am a full-stack software engineer who enjoys working between backend development, team-side infrastructure topics, and customer enablement. My work combines software development, customer workshops, demos, technical documentation, and hands-on troubleshooting for users.
+
+At Bosch Connected Industry, I contribute to Nexeed Device Portal, a cloud-native device management platform used by 50+ global customers and more than 500,000 connected devices. My day-to-day work spans Java/Spring Boot development, Kubernetes-related service configuration, CI/CD and GitOps workflows, production troubleshooting, monitoring, technical documentation, and customer-facing support.
+
+I like roles where technical work and communication meet. I have helped run multi-day customer workshops, explained API and infrastructure-adjacent concepts to different audiences, supported users with practical use cases and device troubleshooting, and shared knowledge around Kubernetes, Helm, ArgoCD, Vault, and pipeline concepts inside the team.
+
+My background also includes research, teaching, mentoring, and consulting experience. During my Master's thesis at Utrecht University, I analyzed 1,500+ GitHub repositories as part of the SWORDS@UU open science project; the work was featured by Utrecht University, archived on Zenodo, and presented at deRSE23. I am especially interested in Customer Success Engineering, Solutions Engineering, Sales Engineering, and DevOps-oriented Software Engineering roles.
     `,
     "address":"Frankfurt, Germany",
     "website":"[kequach.github.io](https://kequach.github.io/)",
@@ -56,15 +60,14 @@ My background also includes research, teaching, mentoring, and consulting experi
         "YearOfJoining":"2022",
         "MonthOfLeaving":"Present",
         "YearOfLeaving":"",
-        "Achievements":`• Full-stack software engineer for [Nexeed Device Portal](https://www.bosch-connected-industry.com/de/en/portfolio/nexeed-automation/device-management), a cloud-native platform for 50+ global customers and more than 500,000 connected devices
-  ◦ Designed and led a multi-day technical onboarding workshop for a strategic customer; advised users on use cases, API workflows, configuration, device operations, firmware rollouts, remote access, and troubleshooting
-  ◦ Presented technical demos, product capabilities, and infrastructure topics to customers, external stakeholders, and internal teams, including feature demos and pipeline walkthroughs
-  ◦ Led the development-team-side effort for the platform's first on-premises Kubernetes deployment using Helm, ArgoCD, and HashiCorp Vault; coordinated infrastructure and monitoring stakeholders and documented a repeatable runbook
-  ◦ Acted as team-side technical point of contact for infrastructure topics: Helm, ArgoCD, HashiCorp Vault, mTLS device identity, Trivy scans, CI/CD pipelines, Elasticsearch/Kibana observability, and production troubleshooting
-  ◦ Built and maintained CI/CD pipelines for cloud and on-premises environments using Azure Pipelines and ArgoCD
-  ◦ Developed full-stack features with primary focus on backend and infrastructure using Java, Spring Boot, and Angular; created technical documentation for developers, operations teams, and end users
-  ◦ Automated recurring development, deployment, and billing processes with Python, PowerShell, and VBA, reducing one quarterly process from 3 days to under 2 minutes
-        `
+        "Achievements":`- Software engineer for [Nexeed Device Portal](https://www.bosch-connected-industry.com/de/en/portfolio/nexeed-automation/device-management), a cloud-native multi-tenant SaaS platform for 50+ global customers and 500,000+ connected devices, including dedicated on-premises service environments for internal Bosch customers; focusing on customer workshops, infrastructure enablement and agile backend development
+  - Designed and led a multi-day technical onboarding workshop for a strategic customer; served as technical contact throughout onboarding and advised users on practical use cases, API usage, configuration and device troubleshooting
+  - Presented technical demos, product capabilities and infrastructure topics to customers, external stakeholders and internal teams, including feature demos and explanations of new pipeline structures
+  - Led the platform's first dedicated on-premises service deployment for internal Bosch customers who could not use the standard cloud environment; coordinated infrastructure and monitoring stakeholders and documented a repeatable runbook
+  - Team-side technical point of contact for infrastructure topics, collaborating with dedicated platform/system teams on Helm, ArgoCD, HashiCorp Vault, mTLS device identity and Trivy scans; built and maintained CI/CD pipelines
+  - Full-stack development with primary focus on backend and infrastructure using Java and Spring Boot; created audience-specific technical documentation for developers, operations teams and end users
+  - Took over and documented a previously undocumented billing process, automated recurring steps and reduced monthly effort from about 2 hours to under 15 minutes, improving the reliability and timeliness of customer-facing billing data; developed VBA automation reducing effort of a quarterly process from 3 days to under 2 minutes
+          `
       },
       {
         "CompanyName":"Utrecht University",
@@ -184,28 +187,28 @@ My background also includes research, teaching, mentoring, and consulting experi
     ],
     "skills":[
       {
-        "skillname":"Certifications: CKAD, Microsoft Certified Azure Administrator Associate (AZ-104), Microsoft Azure Fundamentals (AZ-900), HashiCorp Certified Terraform Associate (004)"
+        "skillname":"Customer-facing engineering: technical workshops, onboarding, demos, stakeholder communication, use-case translation, API guidance, configuration support, device troubleshooting, and customer documentation"
       },
       {
-        "skillname":"Languages: Java, Python, SQL (Azure SQL, Oracle), PowerShell, TypeScript, JavaScript/HTML/CSS, VBA, R"
+        "skillname":"Backend & full-stack: Java, Spring Boot, REST/API integration, Liquibase, Playwright, Angular, TypeScript, JavaScript/HTML/CSS"
       },
       {
-        "skillname":"Backend & full-stack: Spring Boot, REST/API integration, Liquibase, Playwright, Angular"
-      },
-      {
-        "skillname":"Customer-facing engineering: technical workshops, demos, onboarding, technical support, customer support, API usage, configuration, and troubleshooting"
-      },
-      {
-        "skillname":"Infrastructure & DevOps: Kubernetes, Helm, ArgoCD, Docker, Maven, Azure DevOps, Azure Pipelines, CI/CD, GitOps"
+        "skillname":"DevOps & team-side infrastructure configuration: Kubernetes service configuration, Helm values for central templates, ArgoCD applications, Docker, Maven, Azure DevOps, Azure Pipelines, CI/CD, on-premises deployment runbooks"
       },
       {
         "skillname":"Cloud & security: Azure, Terraform, HashiCorp Vault, mTLS, OIDC/JWT, Trivy"
       },
       {
-        "skillname":"Monitoring & operations: Elasticsearch, Kibana, Redis, Prometheus, Grafana, production troubleshooting, runbooks"
+        "skillname":"Monitoring & operations: Elasticsearch, Kibana, Redis, Prometheus, Grafana, production troubleshooting, root-cause analysis, runbooks"
       },
       {
-        "skillname":"Documentation & tools: Git, Arc42, AsciiDoc, Antora, GitHub Copilot, Cursor"
+        "skillname":"Automation & data: Python, PowerShell, SQL (Azure SQL, Oracle), VBA, R, process automation, data collection pipelines, statistical analysis"
+      },
+      {
+        "skillname":"Documentation & enablement: Arc42, AsciiDoc, Antora, developer documentation, operations documentation, end-user documentation, Git, GitHub Copilot, Cursor"
+      },
+      {
+        "skillname":"Certifications: CKAD, Microsoft Certified Azure Administrator Associate (AZ-104), Microsoft Azure Fundamentals (AZ-900), HashiCorp Certified Terraform Associate (004)"
       },
     ],
     "interests":[
@@ -249,28 +252,45 @@ My background also includes research, teaching, mentoring, and consulting experi
         "github":"https://github.com/UtrechtUniversity/SWORDS-UU"
       },
       {
+        "name":"Cashback Tracker",
+        "description":`A local-first Android app for tracking cashback and "try for free" promotions. Built with Kotlin, Jetpack Compose, Material 3, Room, DataStore, Android Keystore-backed encryption, and jsoup. It includes user-triggered URL analysis, CSV import/export, duplicate-use warnings, release automation, documentation, and focused parser/export tests.`,
+        "github":"https://github.com/kequach/cashbacktracker"
+      },
+      {
         "name":"Uniqlo sales alerter",
         "description":`A self-hosted, open source Uniqlo sale alert tool that watches the sale catalogue, filters by size, discount, stock status, and country, then sends matching deals by email or Telegram. It runs in Docker, includes a browser-based settings UI, and supports 22 countries across Europe, Asia, and North America.`,
         "logo":"images/uniqlo.png",
         "github":"https://github.com/kequach/uniqlo-sales-alerter"
       },
       {
-        "name":"Doctor collector",
-        "description":`Jupyter Notebook script that retrieves contact information from therapie.de and automatically contacts doctors or therapists.`,
-        "logo":"images/logo-doctor-collector.png",
-        "github":"https://github.com/kequach/Doctor-collector"
-      },
-      {
         "name":"start.gg-event-adder",
-        "description":`This Discord bot automatically fetches real tournament data from the start.gg API and creates scheduled events in your Discord servers.`,
+        "description":`A Discord bot that fetches real tournament data from the start.gg API and creates scheduled events in Discord servers. It reflects the same kind of practical automation I like in engineering work: take a repeated coordination task, connect the APIs, and make the workflow easier for users.`,
         "logo":"images/startgglogo.png",
         "github":"https://github.com/kequach/start.gg-event-adder"
+      },
+      {
+        "name":"Doctor collector",
+        "description":`Jupyter Notebook script that retrieves contact information from therapie.de and automatically contacts doctors or therapists. It is a small example of turning a manual search process into a repeatable data collection and communication workflow.`,
+        "logo":"images/logo-doctor-collector.png",
+        "github":"https://github.com/kequach/Doctor-collector"
       }
     ],
     "testimonials":[
       {
-        "description":"Keven is a great guy",
-        "name":"Keven's wife"
+        "description":"Customer workshop feedback highlighted clear structure, patient explanations, and practical support during onboarding to the device platform.",
+        "name":"Customer workshop feedback"
+      },
+      {
+        "description":"Leadership feedback has described my work as analytical, constructive, and structured, especially around documenting infrastructure-adjacent topics and repeatable processes.",
+        "name":"Technical leadership feedback"
+      },
+      {
+        "description":"Peer feedback has highlighted reliability when taking over topics, pragmatic problem solving, and proactive knowledge sharing.",
+        "name":"Peer feedback"
+      },
+      {
+        "description":"Team feedback has highlighted my willingness to learn new technologies and contribute around Kubernetes-related team configuration, build topics, pipelines, testing, and operations work.",
+        "name":"Team feedback"
       }
     ]
   }
